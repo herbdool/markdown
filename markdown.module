@@ -87,7 +87,7 @@ function _markdown_help_block() {
 ##### Header 5 #####
 (Hashes on right are optional)
 
-Link [Drupal](http://drupal.org)
+Link [Backdrop](http://backdropcms.org)
 
 Inline markup like _italics_,
  **bold**, and `code()`.
@@ -123,7 +123,7 @@ function _filter_markdown($text, $format) {
 /**
  * Filter settings callback. Just provides a version overview.
  */
-function _filter_markdown_settings($form, &$form_state, $filter, $format, $defaults) {
+function _filter_markdown_settings($form, &$form_state, $filter, $format) {
   module_load_include('php', 'markdown', 'markdown');
 
   $settings['markdown_wrapper'] = array(
