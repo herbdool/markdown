@@ -46,4 +46,4 @@ Credits
 
 Ported to Backdrop by Herb v/d Dool (https://github.com/herbdool).
 
-This module was originally written by Justin Toupin for Drupal (https://drupal.org/project/markdown), based on the Markdown Extras PHP filter by Michel Fortin (http://michelf.ca/projects/php-markdown/extra).
+This module was originally written by Justin Toupin for Drupal (https://drupal.org/project/markdown), based on the Markdown Extras PHP filter by Michel Fortin (http://michelf.ca/projects/php-markdown/extra). Drupal maintainers are: [frjo](https://www.drupal.org/u/frjo), [barraponto](https://www.drupal.org/u/barraponto), [sreynen](https://www.drupal.org/u/sreynen),[justin2pin](https://www.drupal.org/u/justin2pin).
