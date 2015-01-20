@@ -1,9 +1,7 @@
 Markdown filter
 ========
 
-This is a simple filter module. It handles `<code></code>` and `<?php ?>` tags
-so that users can post code without having to worry about escaping with `&lt;`
-and `&gt;`
+This is a simple filter module. It handles Markdown, which is a "markup" that is also meant to be as human-readable as possible when left as "source".
 
 INSTALLATION
 ------------
