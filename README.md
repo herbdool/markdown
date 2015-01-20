@@ -39,11 +39,11 @@ complete text.
 Current Maintainers
 -------------------
 
-This module is currently seeking maintainers.
+This module is currently maintained by Herb v/d Dool (https://github.com/herbdool).
 
 Credits
 -------
 
-Ported to Backdrop by Herb van den Dool (https://github.com/herbdool/)
+Ported to Backdrop by Herb v/d Dool (https://github.com/herbdool).
 
-This module was originally written for Drupal (https://drupal.org/project/markdown), based on the Markdown Extras PHP filter by Michel Fortin (http://michelf.ca/projects/php-markdown/extra).
+This module was originally written by Justin Toupin for Drupal (https://drupal.org/project/markdown), based on the Markdown Extras PHP filter by Michel Fortin (http://michelf.ca/projects/php-markdown/extra).
