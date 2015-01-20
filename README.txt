@@ -1,7 +1,9 @@
-Markdown filter Drupal module
+Markdown filter Backdrop module
 =============================
 
-Provides Markdown filter integration for Drupal input formats. The
+This module is a port of the Markdown filter Drupal module (https://drupal.org/project/markdown).
+
+Provides Markdown filter integration for Backdrop input formats. The
 Markdown syntax is designed to co-exist with HTML, so you can set up
 input formats with both HTML and Markdown support. It is also meant to
 be as human-readable as possible when left as "source".
