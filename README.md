@@ -39,7 +39,7 @@ complete text.
 Current Maintainers
 -------------------
 
-This module is currently maintained by Herb v/d Dool (https://github.com/herbdool).
+This module is currently maintained for Backdrop by Herb v/d Dool (https://github.com/herbdool).
 
 Credits
 -------
